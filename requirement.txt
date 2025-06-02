@@ -4,5 +4,9 @@ numpy
 pymongo[srv] == 4.7
 pymongo
 certifi
-
+scikit-learn
+joblib
+scipy
+matplotlib
+seaborn
 ## -e .
